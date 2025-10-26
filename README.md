@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/daman-11/leetcode/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/daman-11/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/daman-11/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/daman-11/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Backtracking
 |  |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/daman-11/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Array
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/daman-11/leetcode/tree/master/2169-simple-bank-system) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/daman-11/leetcode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
